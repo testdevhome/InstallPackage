@@ -1,5 +1,5 @@
 # InstallPackage
-一站式自动化测试平台及解决方案，安装包
+一站式自动化测试平台及解决方案，安装包  https://pan.baidu.com/s/1j58bo_UGiTZ9kIOz_XCFHQ
 
 Appium-Python-Client-0.26.tar.gz
 
